@@ -36,8 +36,8 @@
 
 # Techniques
 
-- **Jump Place**: A spot where placement of a facility requires the player to jump and quickly place.
-- **Alt Place**: A spot where placement of a facility requires the player to hold ALT when placing for the increased placement radius.
+- **Jump Place**: A trick where placement of a facility requires the player to jump and quickly place.
+- **Alt Place**: A trick where placement of a facility requires the player to hold ALT when placing for the increased placement radius.
 - **Camera Cancel**: Using the Photo-Mode's Camera Control function to cancel the oprator's current animation.
 - **Teleport Trick**: *[Used in the context of cable routing in Valley 4]* A trick where you either use Teleport Points *or* utilize the **Fall Timer** mechanic to get stuck between facilities and get teleported to route straight cables between two relays or pylons.
 
