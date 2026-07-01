@@ -2,9 +2,9 @@
 
 - **Out-Of-Bounds (OOB)**: Outside of valid playable bounds. *(i.e. spots that require unintended parkour or breaking through invisible walls)*
 
-- **Fall Timer / Air Timer**: An internal timer that counts down any time the oprator is falling or actively ascending in the air where the oprator is force teleported to the last valid position once it runs out. *(30s before v1.2, 100s after)*
+- **Fall Timer / Air Timer**: An internal timer that counts down any time the oprator is falling or actively ascending in the air where the oprator is force teleported to the last valid position once it runs out. *(30s **before** v1.2, 100s **after**)*
 
-- **Zippable / Not Zippable**: When two ares can/cannot be crossed with a zipline. *(no obstructions)*
+- **Zippable / Not Zippable**: When two areas can/cannot be crossed with a zipline. *(no obstructions)*
 
 - **Ziplines**: You know what this is lol.
 	* **Anti-Zipline Coating**: A piece of terrain or structure on which there are no valid 3x3 and a nearby 2x2 spots for a zipline + a pylon to be placed.
