@@ -32,7 +32,7 @@
 - **Share Zone/Tile**: General term for an area or AIC tile on which facilities can be shared with other players.
 	* **Sharable**: When a facility is sharable. *(in a share zone)*
 	* **Unsharable**: When a facility is not sharable. *(not in a share zone)*
-	* **Random Sharable**: When a facility that cannot be manually shared and requires a random share to take place *("a ring to pop")* before being sharable manually. *(i.e. the North-East OOB Power Plateau zipline before it was patched)*
+	* **Random Sharable**: When a facility cannot be manually shared and requires a random share to take place *("a ring to pop")* before being sharable manually. *(i.e. the North-East OOB Power Plateau zipline before it was patched)*
 
 # Techniques
 
