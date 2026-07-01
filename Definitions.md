@@ -49,7 +49,7 @@
 - **Parkour(able) / Climb(able) / "Goatable"**: Being able to use regular jumping mechanics of the game to reach a certain spot.
 	* **Wiggle**: A technique where the oprator rubs against a wall for a *very... very long time* to ascend a corner of some mountain.
 	* **Wall Slide**: A technique where the oprator jumps then slides on an invisible wall to reach a desired destination.
-	* **[Facility] Slide**: A technique where the oprator falls onto a facility *(Thermal Bank, Relay, and/or Memo Beacon)* to get slightly launched in a direction.
+	* **[Facility] Slide (?)**: A technique where the oprator falls onto a facility *(Thermal Bank, Relay, and/or Memo Beacon)* to get slightly launched in a direction.
 
 - **Helicopter**: A technique where you use Yvonne and Laevatain (or just one of them) to vertically ascend into the air. *(patched since v1.1 but there is still a version that is slower and more inconsistent)*
 	* **[No term]**: A sub-technique where you use an Ult animation object to temporarily stand on and jump to achieve horizontal movement.
