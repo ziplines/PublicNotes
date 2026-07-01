@@ -6,8 +6,8 @@
 
 - **Zippable / Not Zippable**: When two areas can/cannot be crossed with a zipline.
 
-- **Ziplines**: You know what this is lol.
-	* **Anti-Zipline Coating**: A piece of terrain or structure on which there are no valid 3x3 and a nearby 2x2 spots for a zipline + a pylon to be placed.
+- **Zipline**: You know what this is lol.
+	* **Anti-Zipline Coating**: A piece of terrain or structure on which there are no valid 3x3 and a nearby 2x2 spots for a zipline + a pylon to be placed. *(Does not include lack of space, mostly used for intentional splatter of red AIC tiles)*
 	* **"Angel" Zipline**: A subset of ziplines that are mysteriously shared amongst users without a possible power source. *(i.e., "Wireless Little Angel" spreading around the CN servers)*
 	* **Floating Zipline**: A zipline where the terrain underneth was moved during map changes but the AIC tiles were not refreshed, resulting in it floating in the air. *(i.e. West Jingyu Pergola Zipline)*
 	* **Bricked Zipline**: A zipline where a piece of terrain or invisible wall was placed over it during map changes, resulting in it being bricked permanently if the player cannot access it. *(i.e. the famous Origin Lodespring elevator zipline that was formerly climbable but was walled off)*
