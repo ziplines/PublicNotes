@@ -39,23 +39,23 @@
 - **Jump Place**: A trick where placement of a facility requires the player to jump and quickly place.
 - **Alt Place**: A trick where placement of a facility requires the player to hold ALT when placing for the increased placement radius.
 - **Camera Cancel**: Using the Photo-Mode's Camera Control function to cancel the oprator's current animation.
-- **Teleport Trick**: *[Used in the context of cable routing in Valley 4]* A trick where you either use Teleport Points *or* utilize the **Fall Timer** mechanic to get stuck between facilities and get teleported to route straight cables between two relays or pylons.
+- **Teleport Trick**: *[Used in the context of cable routing in Valley 4]* A trick where you either use Teleport Points *or* utilize the **Fall Timer** mechanic to route straight cables between two relays or pylons.
 
 - **[Facility] Jump**: A subset of techniques using facilities to help reach higher places.
-	* **Thermal Jump / Thermal Boost**: A technique where you squeeze a character between Thermal Banks while jumping to get a jump boost onto a high ledge.
+	* **Thermal Jump/Boost**: A technique where you squeeze a character between Thermal Banks while jumping to get a jump boost onto a high ledge.
 	* **Crucible Jump**: A technique where you clip yourself into a Reactor Crucible, then do Jump > Attack > Camera Cancel to temporarily slide on top of it, giving you a chance to **Alt Place** a facility on a high surface.
 	* **Pipe Jump**: A method similar to Crucible Jump but with Pipe Logistics Facilities.
 
 - **Parkour(able) / Climb(able) / "Goatable"**: Being able to use regular jumping mechanics of the game to reach a certain spot.
 	* **Wiggle**: A technique where the oprator rubs against a wall for a *very... very long time* to ascend a corner of some mountain.
 	* **Wall Slide**: A technique where the oprator jumps then slides on an invisible wall to reach a desired destination.
-	* **[Facility] Slide (?)**: A technique where the oprator falls onto a facility *(Thermal Bank, Relay, and/or Memo Beacon)* to get slightly launched in a direction.
+	* **[Facility] Slide (?)**: A technique where the oprator falls and slide onto the side of a facility *(Thermal Bank, Relay, and/or Memo Beacon)* to get slightly launched in a direction.
 
 - **Helicopter**: A technique where you use Yvonne and Laevatain (or just one of them) to vertically ascend into the air. *(patched since v1.1 but there is still a version that is slower and more inconsistent)*
-	* **[No term]**: A sub-technique where you use an Ult animation object to temporarily stand on and jump to achieve horizontal movement.
+	* **[No term for this]**: A sub-technique where you use an Ult animation object to temporarily stand on and jump to achieve horizontal movement.
 
 - **Airplane**: A technique where you enter a half-drowned state resulting in no gravity or collision, allowing you to effecively "noclip." *(patched since v1.3 although there is implication that the core bug still exist)*
-	* **Death Loop**: A preliminary part of triggering airplane where you respawn underwater and immediately enter the pre-drowning status before eventually drowning and the cycle repeats.
+	* **Death Loop**: A preliminary part of triggering airplane where you respawn underwater and immediately enter the pre-drowning status before eventually drowning and repeating the cycle.
 	* **Tilt(ing)**: A process in **Airplane** where you repeatidly move in a circular motion to slowly tilt your operator, allowing vertical movement.
 
 - **"Cheetos"**: An alias to cheats/hacks *(used to obtain unobtainable ziplines)* since those words are not great in retrospect. *(this is common in Sword Vault Dale)*
