@@ -11,6 +11,7 @@
 	* **"Angel" Zipline**: A subset of ziplines that are mysteriously shared amongst users without a possible power source. *(i.e., "Wireless Little Angel" spreading around the CN servers)*
 	* **Floating Zipline**: A zipline where the terrain underneth was moved during map changes but the AIC tiles were not refreshed, resulting in it floating in the air. *(i.e. West Jingyu Pergola Zipline)*
 	* **Bricked Zipline**: A zipline where a piece of terrain or invisible wall was placed over it during map changes, resulting in it being bricked permanently if the player cannot access it. *(i.e. the famous Origin Lodespring elevator zipline that was formerly climbable but was walled off)* *[If a bricked zip cannot be reclaimed, we consider that as "-n zips" in a map region where n is the number of zips lost]*
+	* **"Blue Zip"**: Alias for ziplines shared to you.
 
 - **Invisible Wall/Block**: General term for a wall or a block that blocks the oprator which cannot be seen.
 	* **Zipline Permeable Invisible Wall**: An **invisible wall** that can be crossed with a zipline but blocks the oprator. *(i.e. walls from Sword Vault Dale)* *[this name is long, ideally use "Zippable" in the context of invisible walls]*
