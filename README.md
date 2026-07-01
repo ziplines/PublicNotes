@@ -1,2 +1,1 @@
-# Talos_Airlines
-Where you noclip in a certain gacha game without cheats but with bugs!
+A general repositiory to add notes and instructions that are too long for discord. 
