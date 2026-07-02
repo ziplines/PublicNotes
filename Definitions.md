@@ -46,7 +46,7 @@
 	* **Thermal Jump/Boost**: A technique where you squeeze a character between Thermal Banks while jumping to get a jump boost onto a high ledge.
 	* **Crucible Jump**: A technique where you clip yourself into a Reactor Crucible, then do Jump > Attack > Camera Cancel to temporarily slide on top of it, giving you a chance to **Alt Place** a facility on a high surface.
 	* **Pipe Jump**: A method similar to Crucible Jump but with Pipe Logistics Facilities.
-	* **Stash Jump**: A method where you can get an operator stuck inside an Easy Stash and jump to get halfway stuck on the roof of it. *(Fixed in 1.3 after t hey made them bigger)*
+	* **Stash Jump**: A method where you can get an operator stuck inside an Easy Stash and jump to get halfway stuck on the roof of it. *(Fixed in 1.3 after they made them bigger)*
 	* **[No term for this]**: Using the platforms of facilities to perform slightly higher jumps to ledges that are just a tiny bit too high.
 
 - **Parkour(able) / Climb(able) / "Goatable"**: Being able to use regular jumping mechanics of the game to reach a certain spot.
