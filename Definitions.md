@@ -2,7 +2,7 @@
 
 - **Out-Of-Bounds (OOB)**: Outside of valid playable bounds. *(i.e. spots that require unintended parkour or breaking through invisible walls)*
 
-- **Fall Timer / Air Timer**: An internal timer that counts down any time the oprator is falling or actively ascending in the air where the oprator is force teleported to the last valid position once it runs out. *(30s **before** v1.2, 100s **after**)*
+- **Fall Timer / Air Timer**: An internal timer that counts down any time the operators is falling or actively ascending in the air where the operators is force teleported to the last valid position once it runs out. *(30s **before** v1.2, 100s **after**)*
 
 - **Zippable / Not Zippable**: When two areas can/cannot be crossed with a zipline.
 
@@ -13,22 +13,22 @@
 	* **Bricked Zipline**: A zipline where a piece of terrain or invisible wall was placed over it during map changes, resulting in it being bricked permanently if the player cannot access it. *(i.e. the famous Origin Lodespring elevator zipline that was formerly climbable but was walled off)* *[If a bricked zip cannot be reclaimed, we consider that as "-n zips" in a map region where n is the number of zips lost]*
 	* **"Blue Zip"**: Alias for ziplines shared to you.
 
-- **Invisible Wall/Block**: General term for a wall or a block that blocks the oprator which cannot be seen.
-	* **Zipline Permeable Invisible Wall**: An **invisible wall** that can be crossed with a zipline but blocks the oprator. *(i.e. walls from Sword Vault Dale)* *[this name is long, ideally use "Zippable" in the context of invisible walls]*
-	* **Zipline Impenetrable Invisible Wall**: An **invisible wall** that blocks both oprators and ziplines. *(i.e. walls from Kohl Plant in Originium Science Park)* *[this name is long, ideally use "Not Zippable" in the context of invisible walls]*
+- **Invisible Wall/Block**: General term for a wall or a block that blocks the operators which cannot be seen.
+	* **Zipline Permeable Invisible Wall**: An **invisible wall** that can be crossed with a zipline but blocks the operators. *(i.e. walls from Sword Vault Dale)* *[this name is long, ideally use "Zippable" in the context of invisible walls]*
+	* **Zipline Impenetrable Invisible Wall**: An **invisible wall** that blocks both operatorss and ziplines. *(i.e. walls from Kohl Plant in Originium Science Park)* *[this name is long, ideally use "Not Zippable" in the context of invisible walls]*
 	* **Zipline Clippable Invisible Wall**: A **zipline impenetrable invisible wall** in which you can clip a zipline partially or fully inside. Clipped zips will show up as valid during placement but will show that it is obstructed when attempting to use it. *(this is rarely used as there are very few spots where this happens)*
 
 - **Eviction Zone**: General term for zones that teleport you after 3 seconds.
 	* **Eviction Wall**: Walls of an **eviction zone** that restrict your horizontal movement to map bounds. *(Note: NOT NetLimiter bypassable)*
 	* **Eviction Ceiling/Floor**: Ceiling/Floor of an **eviction zone** that restrict your vertical movement to map bounds. *(Note: NetLimiter bypassable)*
 
-- **Death/Water Zone**: Volume of space that force-kills/drowns the oprator immediately upon touching it.
+- **Death/Water Zone**: Volume of space that force-kills/drowns the operators immediately upon touching it.
 	* **Interactive Water**: Volume of water (or any liquid) that can be controlled by the player. *(i.e. various pools in Wuling)*
 
-- **Force-Teleport Zone / TP Zone**: Volume of space that immediately fades-out and teleports the oprator to the last valid position upon touching it.
+- **Force-Teleport Zone / TP Zone**: Volume of space that immediately fades-out and teleports the operators to the last valid position upon touching it.
 
-- **Respawn Tile**: An area or AIC tile on which it is valid for the oprator to respawn. *(i.e. it gets saved as a valid position)*
-	* **Non-Respawn Tile**: An area or AIC tile (or a space lacking them) where the oprator is not capable of respawning. *(inverse of a **Respawn Tile**)*
+- **Respawn Tile**: An area or AIC tile on which it is valid for the operators to respawn. *(i.e. it gets saved as a valid position)*
+	* **Non-Respawn Tile**: An area or AIC tile (or a space lacking them) where the operators is not capable of respawning. *(inverse of a **Respawn Tile**)*
 
 - **Share Zone/Tile**: General term for an area or AIC tile on which facilities can be shared with other players.
 	* **Sharable**: When a facility is sharable. *(in a share zone)*
@@ -39,7 +39,7 @@
 
 - **Jump Place**: A trick where placement of a facility requires the player to jump and quickly place.
 - **Alt Place**: A trick where placement of a facility requires the player to hold ALT when placing for the increased placement radius.
-- **Camera Cancel**: Using the Photo-Mode's Camera Control function to cancel the oprator's current animation.
+- **Camera Cancel**: Using the Photo-Mode's Camera Control function to cancel the operators's current animation.
 - **Teleport Trick**: *[Used in the context of cable routing in Valley 4]* A trick where you either use Teleport Points *or* utilize the **Fall Timer** mechanic to route straight cables between two relays or pylons.
 
 - **[Facility] Jump**: A subset of techniques using facilities to help reach higher places.
@@ -48,9 +48,9 @@
 	* **Pipe Jump**: A method similar to Crucible Jump but with Pipe Logistics Facilities.
 
 - **Parkour(able) / Climb(able) / "Goatable"**: Being able to use regular jumping mechanics of the game to reach a certain spot.
-	* **Wiggle**: A technique where the oprator rubs against a wall for a *very... very long time* to ascend a corner of some mountain.
-	* **Wall Slide**: A technique where the oprator jumps then slides on an invisible wall to reach a desired destination.
-	* **[Facility] Slide (?)**: A technique where the oprator falls and slide onto the side of a facility *(Thermal Bank, Relay, and/or Memo Beacon)* to get slightly launched in a direction.
+	* **Wiggle**: A technique where the operators rubs against a wall for a *very... very long time* to ascend a corner of some mountain.
+	* **Wall Slide**: A technique where the operators jumps then slides on an invisible wall to reach a desired destination.
+	* **[Facility] Slide (?)**: A technique where the operators falls and slide onto the side of a facility *(Thermal Bank, Relay, and/or Memo Beacon)* to get slightly launched in a direction.
 
 - **Helicopter**: A technique where you use Yvonne and Laevatain (or just one of them) to vertically ascend into the air. *(patched since v1.1 but there is still a version that is slower and more inconsistent)*
 	* **[No term for this]**: A sub-technique where you use an Ult animation object to temporarily stand on and jump to achieve horizontal movement.
