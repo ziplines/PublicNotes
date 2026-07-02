@@ -34,6 +34,7 @@
 	* **Sharable**: When a facility is sharable. *(in a share zone)*
 	* **Unsharable**: When a facility is not sharable. *(not in a share zone)*
 	* **Random Sharable**: When a facility cannot be manually shared and requires a random share to take place *("a ring to pop")* before being sharable manually. *(i.e. the North-East OOB Power Plateau zipline before it was patched)*
+	* **Inverse Share Zone (Theory)**: A zone that does the opposite of a share zone. *(There is suspicion that Wuling City have a large one at a certain height range as on top of the Great Wall, there are areas where facilities aren't sharable but the areas above or below them are)*
 
 # Techniques
 
