@@ -36,6 +36,8 @@
 	* **Random Sharable**: When a facility cannot be manually shared and requires a random share to take place *("a ring to pop")* before being sharable manually. *(i.e. the North-East OOB Power Plateau zipline before it was patched)*
 	* **Inverse Share Zone (Theory)**: A zone that does the opposite of a share zone. *(There is suspicion that Wuling City have a large one at a certain height range as on top of the Great Wall, there are areas where facilities aren't sharable but the areas above or below them are)*
 
+- **Fake Terrain/[Object]**: A piece of terrain and/or some [object] that is visible but doesn't have any collision, leading to operators falling straight through them. *(Despite their lack of collision, some of them allows having facilities placed on them, letting players parkour on facilities)*
+
 # Techniques
 
 - **Jump Place**: A trick where placement of a facility requires the player to jump and quickly place.
@@ -62,4 +64,12 @@
 	* **Death Loop**: A preliminary part of triggering airplane where you respawn underwater and immediately enter the pre-drowning status before eventually drowning and repeating the cycle.
 	* **Tilt(ing)**: A process in **Airplane** where you repeatidly move in a circular motion to slowly tilt your operator, allowing vertical movement.
 
+# Special
+
+- **Pergola**: The outdoor seating areas you see around in Wuling. I'm not sure about other servers but we in NA/EU & ASIA try to put zips on all of them whenever they're feasible and placeable.
+
 - **"Cheetos"**: An alias to cheats/hacks *(used to obtain unobtainable ziplines)* since those words are not great in retrospect. *(this is common in Sword Vault Dale)*
+
+- **"Landscape"**: A technical term that is used for the heightmap based terrain that is used in some parts of the map. Sometimes, this terrain exist below mesh based terrain. A clear indicator is if you go out of bounds and the floor goes in weird spikey patterns or very smooth rolling hills vibe. *(Zips can let you go through pieces of Landscapes)*
+
+- **"Mesh Terrain"**: A technical term that is used when a large clusters of 3D models are used to form a piece of terrain, such as cliffs, overhangs, and caves, as they are not possible with the heightmap based landscape system. *(Note: In cases where Mesh Terrain is used, the Landscape plane is either shifted down or completely removed. If you see double layered landscape, it was probably shifted down instead of removed... Also note that Landscape systems can only deform a 2D plane up and down, if a piece of land does more than that, it is likely Mesh-based Terrain)*
