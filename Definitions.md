@@ -62,7 +62,7 @@
 
 - **Airplane**: A technique where you enter a half-drowned state resulting in no gravity or collision, allowing you to effecively "noclip." *(patched since v1.3 although there is implication that the core bug still exist)*
 	* **Death Loop**: A preliminary part of triggering airplane where you respawn underwater and immediately enter the pre-drowning status before eventually drowning and repeating the cycle.
-	* **Tilt(ing)**: A process in **Airplane** where you repeatidly move in a circular motion to slowly tilt your operator, allowing vertical movement.
+	* **Tilt(ing)**: A process in airplane where you repeatidly move in a circular motion to slowly tilt your operator, allowing vertical movement.
 
 # Special
 
@@ -70,6 +70,6 @@
 
 - **"Cheetos"**: An alias to cheats/hacks *(used to obtain unobtainable ziplines)* since those words are not great in retrospect. *(this is common in Sword Vault Dale)*
 
-- **"Landscape"**: A technical term referring to the heightmap based terrain that is used in some parts of the map. Sometimes, this terrain exist below mesh based terrain. A clear indicator is if you go out of bounds and the floor goes in weird spikey patterns or very smooth rolling hills vibe. *(Zips can let you go through pieces of Landscapes)*
+- **"Landscape"**: A technical term referring to the heightmap based terrain that is used in some parts of the map. Sometimes, this terrain exist below mesh based terrain. A clear indicator of a Landscape is if you go out of bounds and the floor goes in weird spikey patterns or very smooth rolling hills vibe. *(Zips can let you go through pieces of Landscapes)*
 
 - **"Mesh Terrain"**: A technical term referring to 3D models are used to form a piece of terrain, such as cliffs, overhangs, and caves, as they are not possible with the heightmap based landscape system. *(Note: In cases where Mesh Terrain is used, the Landscape plane is either shifted down or completely removed. If you see double layered landscape, it was probably shifted down instead of removed... Also note that Landscape systems can only deform a 2D plane up and down, if a piece of land does more than that, it is likely Mesh-based Terrain)*
