@@ -58,7 +58,7 @@
 	* **Wall Slide**: A technique where the operators jumps then slides on an invisible wall to reach a desired destination.
 
 - **Helicopter**: A technique where you use Yvonne and Laevatain (or just one of them) to vertically ascend into the air. *(patched since v1.1 but there is still a version that is slower and more inconsistent)*
-	* **[No term for this]**: A sub-technique where you use an Ult animation object to temporarily stand on and jump to achieve horizontal movement.
+	* **[No term for this]**: A sub-technique where you use an Ult animation object to temporarily stand on and jump to achieve horizontal movement. *(Also patched since v1.1 and no replacement found so far)*
 
 - **Airplane**: A technique where you enter a half-drowned state resulting in no gravity or collision, allowing you to effecively "noclip." *(patched since v1.3 although there is implication that the core bug still exist)*
 	* **Death Loop**: A preliminary part of triggering airplane where you respawn underwater and immediately enter the pre-drowning status before eventually drowning and repeating the cycle.
