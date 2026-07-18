@@ -18,9 +18,9 @@
 	* **Zipline Impenetrable Invisible Wall**: An **invisible wall** that blocks both operatorss and ziplines. *(i.e. walls from Kohl Plant in Originium Science Park)* *[this name is long, ideally use "Not Zippable" in the context of invisible walls]*
 	* **Zipline Clippable Invisible Wall**: A **zipline impenetrable invisible wall** in which you can clip a zipline partially or fully inside. Clipped zips will show up as valid during placement but will show that it is obstructed when attempting to use it. *(this is rarely used as there are very few spots where this happens)*
 
-- **Eviction Zone**: General term for zones that teleport you after 3 seconds.
-	* **Eviction Wall**: Walls of an **eviction zone** that restrict your horizontal movement to map bounds. *(Note: NOT NetLimiter bypassable)*
-	* **Eviction Ceiling/Floor**: Ceiling/Floor of an **eviction zone** that restrict your vertical movement to map bounds. *(Note: NetLimiter bypassable)*
+- **Eviction Zone**: General term for zones that teleport you after 3 seconds. *(Starting from v1.4, all types of eviction zones are NetLimiter bypassable)*
+	* **Eviction Wall**: Walls of an **eviction zone** that restrict your horizontal movement to map bounds.
+	* **Eviction Ceiling/Floor**: Ceiling/Floor of an **eviction zone** that restrict your vertical movement to map bounds.
 
 - **Death/Water Zone**: Volume of space that force-kills/drowns the operators immediately upon touching it.
 	* **Interactive Water**: Volume of water (or any liquid) that can be controlled by the player. *(i.e. various pools in Wuling)*
