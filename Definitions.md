@@ -66,7 +66,7 @@
 
 # Special
 
-- **Pergola**: The outdoor seating areas you see around in Wuling. I'm not sure about other servers but we in NA/EU & ASIA try to put zips on all of them whenever they're feasible and placeable.
+- **Pergola**: The outdoor seating areas you see around in Wuling. I'm not sure about other servers but we in NA/EU & ASIA try to put zips on all of them whenever they're feasible and placeable. *(Sometimes, this is interchangeably used for the huts on top of the Wuling wall, so read the context!)*
 
 - **"Cheetos"**: An alias to cheats/hacks *(used to obtain unobtainable ziplines)* since those words are not great in retrospect. *(this is common in Sword Vault Dale)*
 
