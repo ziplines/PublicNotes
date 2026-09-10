@@ -39,6 +39,8 @@
 
 - **Fake Terrain/[Object]**: A piece of terrain and/or some [object] that is visible but doesn't have any collision, leading to operators falling straight through them. *(Despite their lack of collision, some of them allows having facilities placed on them, letting players parkour on facilities)*
 
+- **Invisible Terrain/[Object]**: A piece of terrain and/or some [object] that has AIC tiles on it but isn't visually there. This is common with models that were moved during updates without refreshing the AIC tiles or background mountains that disappear as you switch regions. *(i.e. the North Wuling-City mountains when you are in Yinglung Pass)*
+
 # Techniques
 
 - **Jump Place**: A trick where placement of a facility requires the player to jump and quickly place.
